@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## acutally I'm member of a coding bootcamp and I let you be a part of this journey
+## acutally I'm member of a coding bootcamp and I'll let you be a part of this journey
 ### 💬 Feel free to write me a message 
 ### ⚡ attention: With great power comes great responsibility!
 
