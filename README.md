@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+## acutally I'm member of a coding bootcamp and I let you be a part of this journey
+### 💬 Feel free to write me a message 
+### ⚡ attention: With great power comes great responsibility!
+
+#### sidefacts: 30 years old asperger/adhd _geek_ in a 60 years old body
+####            trying to get in touch with git since a couple of years xD
 
 <!--
 **ChristianMLux/ChristianMLux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
