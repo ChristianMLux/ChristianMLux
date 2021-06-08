@@ -14,6 +14,7 @@ Thesis "procedural generation of 3-dimensional environments"
 
 #### sidefacts: 
 -30 years old asperger/adhd _geek_ 
+
 -gamer since the counter-strike beta
 
 
