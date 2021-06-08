@@ -6,6 +6,7 @@
 
 #### last job/school
 -job: cryptotrading
+
 -school: technical assistant software-development
 
 #### Most extensive project
