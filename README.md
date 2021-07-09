@@ -1,9 +1,11 @@
-# Hello world 👋
+# Welcome! 👋
 
-## acutally I'm member of a coding bootcamp and I'll let you be a part of this journey
-### 💬 Feel free to write me a message 
-### ⚡ attention: With great power comes great responsibility!
+## I am a Technical Assistant (Software and Webdevelopment) and I am currently attending a coding bootcamp to expand my knowledge and skills. 
+### 💬 Feel free to write me a message (contactinformation in CV or Portfolio)
+> take a look at my [Portfolio](https://cml-portfolio.netlify.app/ "CML Portfolio")
 
+#### current job/school
+- coding bootcamps europe (aspiring Junior Web Developer) 
 #### last job/school
 -job: cryptotrading
 
@@ -17,6 +19,7 @@ Thesis "procedural generation of 3-dimensional environments"
 
 -gamer since the counter-strike beta
 
+### ⚡ attention: With great power comes great responsibility!
 
 
 
