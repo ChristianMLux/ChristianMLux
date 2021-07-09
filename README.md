@@ -1,23 +1,28 @@
 # Welcome! 👋
 
-## I am a Technical Assistant (Software and Webdevelopment) and I am currently attending a coding bootcamp to expand my knowledge and skills. 
-### 💬 Feel free to write me a message (contactinformation in CV or Portfolio)
-> take a look at my [Portfolio](https://cml-portfolio.netlify.app/ "CML Portfolio")
+**I am a Technical Assistant (Software and Webdevelopment) and I am currently attending a coding bootcamp to expand my knowledge and skills.**
 
-#### current job/school
+> take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfolio")**
+> 
+> 💬 Feel free to write me a message (contactinformation in CV or Portfolio)
+
+## current job/school
 - coding bootcamps europe (aspiring Junior Web Developer) 
-#### last job/school
+## last job/school
 -job: cryptotrading
 
 -school: technical assistant software-development
 
-#### Most extensive project
+## Most extensive project
 Thesis "procedural generation of 3-dimensional environments" 
 
-#### sidefacts: 
+## sidefacts: 
 -30 years old asperger/adhd _geek_ 
 
 -gamer since the counter-strike beta
+
+## skillset:
+> HTML, CSS, JS, Java, Python
 
 ### ⚡ attention: With great power comes great responsibility!
 
