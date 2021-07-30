@@ -8,12 +8,8 @@
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 
 # Welcome! 👋
-![JuniorFrontendDev](https://github.com/ChristianMLux/ChristianMLux/blob/main/junior-frontend-developer.svg)
-![TASoftware](https://github.com/ChristianMLux/ChristianMLux/blob/main/technical-assistant-software-development.svg)
 
 **I am a Technical Assistant (Software and Webdevelopment) and I am currently attending a coding bootcamp to expand my knowledge and skills.**
-
-
 
 take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfolio")**
 
@@ -34,7 +30,8 @@ take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfoli
 * gamer since the counter-strike beta
 
 
-
+![JuniorFrontendDev](https://github.com/ChristianMLux/ChristianMLux/blob/main/junior-frontend-developer.svg)
+![TASoftware](https://github.com/ChristianMLux/ChristianMLux/blob/main/technical-assistant-software-development.svg)
 
 ### ⚡ attention: With great power comes great responsibility!
 
