@@ -1,7 +1,3 @@
-# Welcome! 👋
-
-**I am a Technical Assistant (Software and Webdevelopment) and I am currently attending a coding bootcamp to expand my knowledge and skills.**
-
 [![Generic badge](https://img.shields.io/badge/HTML-5-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/CSS-3-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JS-2020-yellow.svg)](https://shields.io/)
@@ -10,6 +6,9 @@
 [![Generic badge](https://img.shields.io/badge/Vue.js-3.1-green.svg)](https://shields.io/)
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+# Welcome! 👋
+
+**I am a Technical Assistant (Software and Webdevelopment) and I am currently attending a coding bootcamp to expand my knowledge and skills.**
 
 > take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfolio")**
 > 
