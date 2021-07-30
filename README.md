@@ -20,19 +20,18 @@ take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfoli
 💬 Feel free to write me a message (contactinformation in CV or Portfolio)
 
 ## current job/school
-- coding bootcamps europe (aspiring Junior Web Developer) 
+* coding bootcamps europe (aspiring Junior Web Developer) 
 ## last job/school
--job: cryptotrading
+* job: cryptotrading
 
--school: technical assistant software-development
+* school: technical assistant software-development
 
 ## Most extensive project
-Thesis "procedural generation of 3-dimensional environments" 
+* Thesis "procedural generation of 3-dimensional environments" 
 
 ## sidefacts: 
--30 years old asperger/adhd _geek_ 
-
--gamer since the counter-strike beta
+* 30 years old asperger/adhd _geek_ 
+* gamer since the counter-strike beta
 
 
 
