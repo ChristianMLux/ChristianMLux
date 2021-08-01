@@ -1,7 +1,4 @@
 
-![JuniorFrontendDev](https://github.com/ChristianMLux/ChristianMLux/blob/main/junior-frontend-developer.svg)
-![TASoftware](https://github.com/ChristianMLux/ChristianMLux/blob/main/technical-assistant-software-development.svg)
-
 [![Generic badge](https://img.shields.io/badge/HTML-5-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/CSS-3-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JS-2020-yellow.svg)](https://shields.io/)
@@ -39,6 +36,8 @@ take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfoli
 
 
 
+aspiring ![JuniorFrontendDev](https://github.com/ChristianMLux/ChristianMLux/blob/main/junior-frontend-developer.svg)
+![TASoftware](https://github.com/ChristianMLux/ChristianMLux/blob/main/technical-assistant-software-development.svg)
 
 <!--
 **ChristianMLux/ChristianMLux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
