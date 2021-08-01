@@ -4,7 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/JS-2020-yellow.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Java-7-orange.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Python-3.6-yellow.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Vue.js-3.1-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Vue.js-5-green.svg)](https://shields.io/)
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 
