@@ -10,7 +10,7 @@
 
 # Welcome! 👋
 
-**Junior Frontend Developer and technical Assistant (Software and Webdevelopment**
+**Junior Frontend Developer and technical Assistant (Software and Webdevelopment)**
 
 take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfolio")**
 
