@@ -10,7 +10,7 @@
 
 # Welcome! 👋
 
-**I am a Technical Assistant (Software and Webdevelopment) and I am currently attending a coding bootcamp to expand my knowledge and skills.**
+**Junior Frontend Developer and technical Assistant (Software and Webdevelopment**
 
 take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfolio")**
 
@@ -33,11 +33,6 @@ take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfoli
 
 ### ⚡ attention: With great power comes great responsibility!
 
-
-
-
-aspiring ![JuniorFrontendDev](https://github.com/ChristianMLux/ChristianMLux/blob/main/junior-frontend-developer.svg)
-![TASoftware](https://github.com/ChristianMLux/ChristianMLux/blob/main/technical-assistant-software-development.svg)
 
 <!--
 **ChristianMLux/ChristianMLux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
