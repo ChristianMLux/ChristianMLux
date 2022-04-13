@@ -17,8 +17,9 @@ take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfoli
 💬 Feel free to write me a message (contactinformation in CV or Portfolio)
 
 ## current job/school
-* coding bootcamps europe (aspiring Junior Web Developer) 
+* SparePartsNow GmbH - Junior FullStack Developer (ASP.Net(c#), React, Azure)
 ## last job/school
+* coding bootcamps europe (aspiring Junior Web Developer) 
 * job: cryptotrading
 
 * school: technical assistant software-development
