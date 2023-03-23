@@ -29,7 +29,7 @@ take a look at my **[Portfolio](https://cml-portfolio.netlify.app/ "CML Portfoli
 * Thesis "procedural generation of 3-dimensional environments" 
 
 ## sidefacts: 
-* 30 years old asperger/adhd _geek_ 
+* 30 years old autistic/adhd _geek_ 
 * gamer since the counter-strike beta
 
 
