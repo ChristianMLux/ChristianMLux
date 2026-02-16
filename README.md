@@ -10,8 +10,10 @@ take a look at my **[Portfolio](https://cml25.netlify.app/ "CML Portfolio")**
 💬 Feel free to write me a message (contactinformation in CV or Portfolio)
 
 ## current job/school
-* VelpTEC - Cloud Solution Architecture
+* AthenaRun - Software Developer for autonomous agent systems
+
 ## latest job/school experiences
+* VelpTEC - Cloud Solution Architecture
 * SparePartsNow GmbH - Junior FullStack Developer (ASP.Net(c#), NextJs, Azure)
 * coding bootcamps europe (Junior Web Developer) 
 * school: technical assistant software-development
@@ -21,7 +23,7 @@ take a look at my **[Portfolio](https://cml25.netlify.app/ "CML Portfolio")**
 * Thesis "procedural generation of 3-dimensional environments" 
 
 ## sidefacts: 
-* 34 years old autistic/adhd _geek_ 
+* 35 years old autistic/adhd _geek_ 
 * gamer since the counter-strike beta
 
 
