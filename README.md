@@ -39,22 +39,16 @@ I work at the intersection of full-stack development and AI systems — modern w
 
 Building production-ready multi-agent systems at **AthenaRun**. Co-founding **[Offene Agenten Schmiede](https://github.com/Offene-Agenten-Schmiede)** — an open-source AI agent collective.
 
+
 ---
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&theme=transparent&hide_border=true&title_color=C9A87C&text_color=9f9f9f&icon_color=C9A87C">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&theme=default&hide_border=true&title_color=8B6914&icon_color=8B6914">
-  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&theme=transparent&hide_border=true&title_color=C9A87C&text_color=9f9f9f&icon_color=C9A87C">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=C9A87C&fire=C9A87C&currStreakLabel=C9A87C&sideLabels=9f9f9f&dates=555555&currStreakNum=9f9f9f&sideNums=9f9f9f">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=8B6914&fire=8B6914&currStreakLabel=8B6914&sideLabels=555555&dates=999999&currStreakNum=555555&sideNums=555555">
-  <img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=C9A87C&fire=C9A87C&currStreakLabel=C9A87C&sideLabels=9f9f9f&dates=555555&currStreakNum=9f9f9f&sideNums=9f9f9f">
+  <img width="60%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=C9A87C&fire=C9A87C&currStreakLabel=C9A87C&sideLabels=9f9f9f&dates=555555&currStreakNum=9f9f9f&sideNums=9f9f9f">
 </picture>
-
-<br>
 
 <sub>Stuttgart, Germany · Open to collaborations on AI systems, open-source tooling, and interesting problems.</sub>
 
