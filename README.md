@@ -23,7 +23,7 @@ I work at the intersection of full-stack development and AI systems — modern w
 
 20+ years in tech — from forum signatures in gaming communities and hand-built websites through graphic design, bootcamps, and cloud architecture to where I am now: building autonomous systems that ship. Not a straight line, but every step counted.
 
-Currently building production-ready multi-agent systems at **AthenaRun** and co-founding **[Offene Agenten Schmiede](https://github.com/Offene-Agenten-Schmiede)** — an open-source AI agent collective.
+Currently building production-ready multi-agent systems at **AthenaRun**.
 
 ---
 
