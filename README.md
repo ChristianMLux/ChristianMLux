@@ -2,27 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=C9A87C&center=true&vCenter=true&repeat=false&width=720&lines=Full-Stack+Engineer+%E2%80%94+Intelligent+Systems)](https://cml25.netlify.app/)
 
-**From modern web apps to AI agent pipelines — I build software that works in production.**
+From modern web apps to AI agent pipelines — I build software that works in production.
 
-[`Portfolio`](https://cml25.netlify.app/) &nbsp;&middot;&nbsp; [`LinkedIn`](https://www.linkedin.com/in/christian-m-lux/) &nbsp;&middot;&nbsp; [`Bluesky`](https://bsky.app/profile/whistlemaker.bsky.social)
-
-</div>
-
----
-
-### `// WHAT_I_BUILD`
-
-I work at the intersection of full-stack development and AI systems — modern web applications with Next.js and TypeScript, multi-agent pipelines with Python and FastAPI. My focus is on software that doesn't just work in demos, but in the real world.
-
-### `// TECH`
-
-<div align="center">
+[Portfolio](https://cml25.netlify.app/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/christian-m-lux/) &nbsp;&middot;&nbsp; [Bluesky](https://bsky.app/profile/whistlemaker.bsky.social)
 
 [![Tech](https://skillicons.dev/icons?i=nextjs,react,ts,python,fastapi,tailwind,docker,azure,supabase,firebase&theme=dark)](https://cml25.netlify.app/)
 
 </div>
 
-### `// FEATURED_WORK`
+---
+
+I work at the intersection of full-stack development and AI systems — modern web applications with Next.js and TypeScript, multi-agent pipelines with Python and FastAPI. Software that works in the real world, not just in demos.
 
 | Project | What it is |
 |:--------|:-----------|
@@ -31,15 +21,9 @@ I work at the intersection of full-stack development and AI systems — modern w
 | **SparePartsNow** | Full-stack dev on a multi-million B2B spare parts platform — Next.js, C#/.NET, Azure, Kubernetes |
 | **[CML25](https://cml25.netlify.app/)** | Personal portfolio — Next.js 16, React Compiler, View Transitions, Dark Craftsman design system |
 
-### `// THE_JOURNEY`
-
 20+ years in tech — from forum signatures in gaming communities and hand-built websites through graphic design, bootcamps, and cloud architecture to where I am now: building autonomous systems that ship. Not a straight line, but every step counted.
 
-### `// CURRENTLY`
-
-Building production-ready multi-agent systems at **AthenaRun**. Co-founding **[Offene Agenten Schmiede](https://github.com/Offene-Agenten-Schmiede)** — an open-source AI agent collective.
-
-
+Currently building production-ready multi-agent systems at **AthenaRun** and co-founding **[Offene Agenten Schmiede](https://github.com/Offene-Agenten-Schmiede)** — an open-source AI agent collective.
 
 ---
 
