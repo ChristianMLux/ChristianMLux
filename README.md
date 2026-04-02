@@ -4,7 +4,7 @@
 
 From modern web apps to AI agent pipelines — I build software that works in production.
 
-[Portfolio](https://cml25.netlify.app/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/christian-m-lux/) &nbsp;&middot;&nbsp; [Bluesky](https://bsky.app/profile/whistlemaker.bsky.social)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C9A87C?style=flat-square)](https://cml25.netlify.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A87C?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/christian-m-lux/) &nbsp; [![Bluesky](https://img.shields.io/badge/Bluesky-C9A87C?style=flat-square&logo=bluesky&logoColor=fff)](https://bsky.app/profile/whistlemaker.bsky.social)
 
 [![Tech](https://skillicons.dev/icons?i=nextjs,react,ts,python,fastapi,tailwind,docker,azure,supabase,firebase&theme=dark)](https://cml25.netlify.app/)
 
@@ -16,10 +16,10 @@ I work at the intersection of full-stack development and AI systems — modern w
 
 | Project | What it is |
 |:--------|:-----------|
-| **[AthenaRun](https://github.com/ChristianMLux)** | Self-building business platform for German SMEs — 20+ autonomous sub-apps, multi-agent orchestration |
+| **AthenaRun** | Self-building business platform for German SMEs — 20+ autonomous sub-apps, multi-agent orchestration |
 | **AI Agent Pipeline** | Production multi-agent systems that process data, make decisions, and integrate with existing infrastructure |
 | **SparePartsNow** | Full-stack dev on a multi-million B2B spare parts platform — Next.js, C#/.NET, Azure, Kubernetes |
-| **[CML25](https://cml25.netlify.app/)** | Personal portfolio — Next.js 16, React Compiler, View Transitions, Dark Craftsman design system |
+| **CML25** | Personal portfolio — Next.js 16, React Compiler, View Transitions, Dark Craftsman design system |
 
 20+ years in tech — from forum signatures in gaming communities and hand-built websites through graphic design, bootcamps, and cloud architecture to where I am now: building autonomous systems that ship. Not a straight line, but every step counted.
 
