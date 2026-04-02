@@ -40,6 +40,7 @@ I work at the intersection of full-stack development and AI systems — modern w
 Building production-ready multi-agent systems at **AthenaRun**. Co-founding **[Offene Agenten Schmiede](https://github.com/Offene-Agenten-Schmiede)** — an open-source AI agent collective.
 
 
+
 ---
 
 <div align="center">
@@ -51,9 +52,9 @@ Building production-ready multi-agent systems at **AthenaRun**. Co-founding **[O
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/C9A87C/ChristianMLux">
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/8B6914/ChristianMLux">
-  <img width="90%" alt="Contribution Graph" src="https://ghchart.rshah.org/C9A87C/ChristianMLux">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChristianMLux&bg_color=00000000&color=9f9f9f&line=C9A87C&point=C9A87C&area=true&area_color=C9A87C&hide_border=true&custom_title=">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChristianMLux&bg_color=00000000&color=555555&line=8B6914&point=8B6914&area=true&area_color=8B6914&hide_border=true&custom_title=">
+  <img width="90%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ChristianMLux&bg_color=00000000&color=9f9f9f&line=C9A87C&point=C9A87C&area=true&area_color=C9A87C&hide_border=true&custom_title=">
 </picture>
 
 <sub>Stuttgart, Germany · Open to collaborations on AI systems, open-source tooling, and interesting problems.</sub>
