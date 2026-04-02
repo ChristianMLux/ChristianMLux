@@ -1,16 +1,10 @@
 <div align="center">
 
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=C9A87C&center=true&vCenter=true&repeat=false&width=720&lines=Full-Stack+Engineer+%E2%80%94+Intelligent+Systems)](https://cml25.netlify.app/)
 
 **From modern web apps to AI agent pipelines — I build software that works in production.**
 
-<br>
-
 [`Portfolio`](https://cml25.netlify.app/) &nbsp;&middot;&nbsp; [`LinkedIn`](https://www.linkedin.com/in/christian-m-lux/) &nbsp;&middot;&nbsp; [`Bluesky`](https://bsky.app/profile/whistlemaker.bsky.social)
-
-<br>
 
 </div>
 
@@ -20,8 +14,6 @@
 
 I work at the intersection of full-stack development and AI systems — modern web applications with Next.js and TypeScript, multi-agent pipelines with Python and FastAPI. My focus is on software that doesn't just work in demos, but in the real world.
 
-<br>
-
 ### `// TECH`
 
 <div align="center">
@@ -29,8 +21,6 @@ I work at the intersection of full-stack development and AI systems — modern w
 [![Tech](https://skillicons.dev/icons?i=nextjs,react,ts,python,fastapi,tailwind,docker,azure,supabase,firebase&theme=dark)](https://cml25.netlify.app/)
 
 </div>
-
-<br>
 
 ### `// FEATURED_WORK`
 
@@ -41,13 +31,9 @@ I work at the intersection of full-stack development and AI systems — modern w
 | **SparePartsNow** | Full-stack dev on a multi-million B2B spare parts platform — Next.js, C#/.NET, Azure, Kubernetes |
 | **[CML25](https://cml25.netlify.app/)** | Personal portfolio — Next.js 16, React Compiler, View Transitions, Dark Craftsman design system |
 
-<br>
-
 ### `// THE_JOURNEY`
 
 20+ years in tech — from forum signatures in gaming communities and hand-built websites through graphic design, bootcamps, and cloud architecture to where I am now: building autonomous systems that ship. Not a straight line, but every step counted.
-
-<br>
 
 ### `// CURRENTLY`
 
@@ -58,9 +44,9 @@ Building production-ready multi-agent systems at **AthenaRun**. Co-founding **[O
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A87C&text_color=9f9f9f&icon_color=C9A87C&ring_color=C9A87C">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B6914&text_color=555555&icon_color=8B6914&ring_color=8B6914">
-  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A87C&text_color=9f9f9f&icon_color=C9A87C&ring_color=C9A87C">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&theme=transparent&hide_border=true&title_color=C9A87C&text_color=9f9f9f&icon_color=C9A87C">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&theme=default&hide_border=true&title_color=8B6914&icon_color=8B6914">
+  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&theme=transparent&hide_border=true&title_color=C9A87C&text_color=9f9f9f&icon_color=C9A87C">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=C9A87C&fire=C9A87C&currStreakLabel=C9A87C&sideLabels=9f9f9f&dates=555555&currStreakNum=9f9f9f&sideNums=9f9f9f">
@@ -68,7 +54,7 @@ Building production-ready multi-agent systems at **AthenaRun**. Co-founding **[O
   <img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=C9A87C&fire=C9A87C&currStreakLabel=C9A87C&sideLabels=9f9f9f&dates=555555&currStreakNum=9f9f9f&sideNums=9f9f9f">
 </picture>
 
-<br><br>
+<br>
 
 <sub>Stuttgart, Germany · Open to collaborations on AI systems, open-source tooling, and interesting problems.</sub>
 
