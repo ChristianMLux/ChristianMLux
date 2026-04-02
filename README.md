@@ -50,6 +50,12 @@ Building production-ready multi-agent systems at **AthenaRun**. Co-founding **[O
   <img width="60%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=C9A87C&fire=C9A87C&currStreakLabel=C9A87C&sideLabels=9f9f9f&dates=555555&currStreakNum=9f9f9f&sideNums=9f9f9f">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/C9A87C/ChristianMLux">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/8B6914/ChristianMLux">
+  <img width="90%" alt="Contribution Graph" src="https://ghchart.rshah.org/C9A87C/ChristianMLux">
+</picture>
+
 <sub>Stuttgart, Germany · Open to collaborations on AI systems, open-source tooling, and interesting problems.</sub>
 
 </div>
