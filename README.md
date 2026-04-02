@@ -4,7 +4,7 @@
 
 From modern web apps to AI agent pipelines — I build software that works in production.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-C9A87C?style=flat-square)](https://cml25.netlify.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A87C?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/christian-m-lux/) &nbsp; [![Bluesky](https://img.shields.io/badge/Bluesky-C9A87C?style=flat-square&logo=bluesky&logoColor=fff)](https://bsky.app/profile/whistlemaker.bsky.social)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B6914?style=for-the-badge&logoColor=000)](https://cml25.netlify.app/) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B6914?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/christian-m-lux/) &nbsp; [![Bluesky](https://img.shields.io/badge/Bluesky-8B6914?style=for-the-badge&logo=bluesky&logoColor=000)](https://bsky.app/profile/whistlemaker.bsky.social)
 
 [![Tech](https://skillicons.dev/icons?i=nextjs,react,ts,python,fastapi,tailwind,docker,azure,supabase,firebase&theme=dark)](https://cml25.netlify.app/)
 
