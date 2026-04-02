@@ -1,46 +1,75 @@
+<div align="center">
 
+<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=C9A87C&center=true&vCenter=true&repeat=false&width=720&lines=Full-Stack+Engineer+%E2%80%94+Intelligent+Systems)](https://cml25.netlify.app/)
 
-# Welcome! 👋
+**From modern web apps to AI agent pipelines — I build software that works in production.**
 
-**Full - Stack Developer and Technical Assistant (Software and Webdevelopment)**
+<br>
 
-take a look at my **[Portfolio](https://cml25.netlify.app/ "CML Portfolio")**
+[`Portfolio`](https://cml25.netlify.app/) &nbsp;&middot;&nbsp; [`LinkedIn`](https://www.linkedin.com/in/christian-m-lux/) &nbsp;&middot;&nbsp; [`Bluesky`](https://bsky.app/profile/whistlemaker.bsky.social)
 
-💬 Feel free to write me a message (contactinformation in CV or Portfolio)
+<br>
 
-## current job/school
-* AthenaRun - Software Developer for autonomous agent systems
+</div>
 
-## latest job/school experiences
-* VelpTEC - Cloud Solution Architecture
-* SparePartsNow GmbH - Junior FullStack Developer (ASP.Net(c#), NextJs, Azure)
-* coding bootcamps europe (Junior Web Developer) 
-* school: technical assistant software-development
+---
 
-## Most extensive project
-* www.sparepartsnow.de
-* Thesis "procedural generation of 3-dimensional environments" 
+### `// WHAT_I_BUILD`
 
-## sidefacts: 
-* 35 years old autistic/adhd _geek_ 
-* gamer since the counter-strike beta
+I work at the intersection of full-stack development and AI systems — modern web applications with Next.js and TypeScript, multi-agent pipelines with Python and FastAPI. My focus is on software that doesn't just work in demos, but in the real world.
 
+<br>
 
-### ⚡ attention: With great power comes great responsibility!
+### `// TECH`
 
+<div align="center">
 
-<!--
-**ChristianMLux/ChristianMLux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Tech](https://skillicons.dev/icons?i=nextjs,react,ts,python,fastapi,tailwind,docker,azure,supabase,firebase&theme=dark)](https://cml25.netlify.app/)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### `// FEATURED_WORK`
+
+| Project | What it is |
+|:--------|:-----------|
+| **[AthenaRun](https://github.com/ChristianMLux)** | Self-building business platform for German SMEs — 20+ autonomous sub-apps, multi-agent orchestration |
+| **AI Agent Pipeline** | Production multi-agent systems that process data, make decisions, and integrate with existing infrastructure |
+| **SparePartsNow** | Full-stack dev on a multi-million B2B spare parts platform — Next.js, C#/.NET, Azure, Kubernetes |
+| **[CML25](https://cml25.netlify.app/)** | Personal portfolio — Next.js 16, React Compiler, View Transitions, Dark Craftsman design system |
+
+<br>
+
+### `// THE_JOURNEY`
+
+20+ years in tech — from forum signatures in gaming communities and hand-built websites through graphic design, bootcamps, and cloud architecture to where I am now: building autonomous systems that ship. Not a straight line, but every step counted.
+
+<br>
+
+### `// CURRENTLY`
+
+Building production-ready multi-agent systems at **AthenaRun**. Co-founding **[Offene Agenten Schmiede](https://github.com/Offene-Agenten-Schmiede)** — an open-source AI agent collective.
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A87C&text_color=9f9f9f&icon_color=C9A87C&ring_color=C9A87C">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B6914&text_color=555555&icon_color=8B6914&ring_color=8B6914">
+  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChristianMLux&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A87C&text_color=9f9f9f&icon_color=C9A87C&ring_color=C9A87C">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=C9A87C&fire=C9A87C&currStreakLabel=C9A87C&sideLabels=9f9f9f&dates=555555&currStreakNum=9f9f9f&sideNums=9f9f9f">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=8B6914&fire=8B6914&currStreakLabel=8B6914&sideLabels=555555&dates=999999&currStreakNum=555555&sideNums=555555">
+  <img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ChristianMLux&hide_border=true&background=00000000&ring=C9A87C&fire=C9A87C&currStreakLabel=C9A87C&sideLabels=9f9f9f&dates=555555&currStreakNum=9f9f9f&sideNums=9f9f9f">
+</picture>
+
+<br><br>
+
+<sub>Stuttgart, Germany · Open to collaborations on AI systems, open-source tooling, and interesting problems.</sub>
+
+</div>
